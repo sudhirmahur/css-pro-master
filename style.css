@@ -1,0 +1,202 @@
+.title{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: "Nova Square", sans-serif;
+    text-shadow: 5px 4px 11px rgb(0,0,0), 0 2px 5px rgb(0,0,0);
+}
+@font-face {
+    font-family: f1;
+    src:url(fonts/Allison-Regular.ttf)
+}
+.name1{
+    color: #121212;
+    
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 400;
+    font-family: f1;
+    letter-spacing: 1px;
+    word-spacing: -5px;
+    text-transform: capitalize;
+    
+
+    text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+        0px -4px 10px rgba(255,255,255,0.3);
+}
+
+@font-face {
+    font-family: f1;
+    src:url(fonts/Allison-Regular.ttf)
+}
+.name2{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: f1;
+    letter-spacing: -5px;
+    text-transform: capitalize;
+  text-shadow: 0 2px 1px #747474, 
+      -1px 3px 1px #767676, 
+      -2px 5px 1px #787878, 
+      -3px 7px 1px #7a7a7a,
+      -4px 9px 1px #7f7f7f,
+      -5px 11px 1px #838383,
+      -6px 13px 1px #878787,
+      -7px 15px 1px #8a8a8a, 
+      -8px 17px 1px #8e8e8e,
+      -9px 19px 1px #949494,
+      -10px 21px 1px #989898,
+      -11px 23px 1px #9f9f9f,
+      -12px 25px 1px #a2a2a2, 
+      -13px 27px 1px #a7a7a7,
+      -14px 29px 1px #adadad,
+      -15px 31px 1px #b3b3b3,
+      -16px 33px 1px #b6b6b6,
+      -17px 35px 1px #bcbcbc, 
+      -18px 37px 1px #c2c2c2,
+      -19px 39px 1px #c8c8c8,
+      -20px 41px 1px #cbcbcb,
+      -21px 43px 1px #d2d2d2,
+      -22px 45px 1px #d5d5d5, 
+      -23px 47px 1px #e2e2e2,
+      -24px 49px 1px #e6e6e6,
+      -25px 51px 1px #eaeaea,
+      -26px 53px 1px #efefef;
+}
+@font-face {
+    font-family: f3;
+    src: url(fonts/Bloody\ Scene.otf);
+}
+.name3{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: f3;
+
+    letter-spacing: 5px;
+    text-shadow: 0 2px 2px #dfdfdf, 
+        -2px 5px 1px #b8b8b8, 
+        -4px 8px 0px #979797, 
+        -6px 11px 0px #747474,
+        -8px 14px 0px #565656,
+        -10px 17px 0px #343434,
+        -12px 20px 0px #171717,
+        -14px 23px 0px #000;
+}
+@font-face {
+    font-family: f4;
+    src: url(fonts/BonheurRoyale-Regular.ttf);
+}
+.name4{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: f4;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+  text-shadow: 3px 3px 20px #ff99cc,
+    -2px 1px 30px #ff99cc;
+}
+@font-face {
+    font-family: f5;
+    src: url(fonts/EagleLake-Regular.ttf);
+}
+.name5{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: f5;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+  text-shadow: 16px 22px 11px rgba(168,158,32,0.8);
+}
+@font-face {
+    font-family: f6;
+    src: url(fonts/Havana.ttf);
+}
+.name6{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: f6;
+    text-transform: capitalize;
+    color: #dfdfdf;
+    text-shadow: 0 0 2px #dfdfdf, 
+        -4px 5px 0 #b8b8b8, 
+        -7px 11px 0 #747474,
+        -12px 17px 0 #343434,
+        -17px 23px 0 #000;
+  
+}
+@font-face {
+    font-family: f7;
+    src: url(fonts/Hummingbird.ttf);
+}
+.name7{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: f7;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    text-shadow: 10px 10px 25px rgb(81,67,21),
+      -10px 10px 25px rgb(81,67,21),
+      -10px -10px 25px rgb(81,67,21),
+      10px -10px 25px rgb(81,67,21);
+}
+@font-face {
+    font-family: f8;
+    src: url(fonts/MrBedfort-Regular.ttf);
+}
+.name8{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: f8;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+  text-shadow: 0 0 8px #316472;
+}
+@font-face {
+    font-family: f9;
+    src: url(fonts/Silhuettes\ Girlstar\ Italic\ DEMO\ VERSION.ttf);
+}
+.name9{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: f9;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+    text-shadow: -1px 1px 0 #41ba45,
+            1px 1px 0 #c63d2b,
+           1px -1px 0 #42afac,
+          -1px -1px 0 #c6c23f;
+}
+@font-face {
+    font-family: f10;
+    src: url(fonts/Allison-Regular.ttf);
+}
+.name10{
+    color: red;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: f10;
+    text-transform: capitalize;
+    letter-spacing: -5px;
+    text-shadow: 5px 4px 11px rgb(0,0,0), 0 2px 5px rgb(0,0,0);
+}
+
+
+
